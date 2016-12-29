@@ -9,7 +9,7 @@ Run with:
 
 sudo python ./setup.py install
 """
-# small modification
+
 import os
 import sys
 import warnings
